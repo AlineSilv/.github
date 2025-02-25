@@ -1,6 +1,6 @@
 # Descrição de PR:
 
-![PR DE REESTRUTARAÇÃO](https://img.shields.io/badge/PR-TAGCOMMIT-green?style=for-the-badge)
+![PR DE REESTRUTARAÇÃO](https://img.shields.io/badge/PR-TAGCOMMIT-green?style=for-the-badge)</br>
 Este PR representa a **DESCRIÇÃO DA PR/COMMIT** do projeto original. As principais mudanças incluem:
 
 # Alterações:
